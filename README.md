@@ -2,7 +2,7 @@
 
 * [x] Napisać program tzw. Hello world
 * [ ] Przygotowac program do konwersji z F na C
-* [X] Katalog domowy użytkownika: pwd, ~. 
+* [ ] Katalog domowy użytkownika: pwd, ~. 
 * [ ] Ścieżka, ścieżka względna, katalog bieżący, rodzicielski.
 * [ ] Pliki: tworzenie, usuwanie, przenoszenie, zmiana nazwy. 
 * [ ] Polecenia: `ls`, `tree`, `cp`, `mv`, `cd`, `rm`, `rmdir`. Wykonać `man` polecenie. 
