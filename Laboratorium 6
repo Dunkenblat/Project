@@ -2,11 +2,11 @@
 
 1. W pliku plik.txt znajdź wiersze zawierające co najmniej jeden znak.
 
-grep ".*" plik.txt
+grep . plik.txt
 
 2. Znajdź w plikach pl* wiersze rozpoczynające się od cyfry.
 
-find -name 'pl*' | xargs grep -n ^[0-9] --color
+ grep ^[0-9] pl*
 
 3. Znajdź pliki, zawierające wiersz w którym na 9 pozycji występuje litera r.
 
@@ -14,8 +14,8 @@ find | xargs grep -n -o '^........r' --color
 
 4. Policz, ilu użytkowników systemu używa powłoki bash (zgodnie z zapisami w pliku /etc/passwd).
 
-grep -n 'bash' /etc/passwd
+grep -c bash /etc/passwd
 
 5. Znajdź wiersze zawierające liczby rzymskie w pliku plik.txt.
 
-grep -n '[IVXLCDM]' plik.txt
+grep -iw [IVXLCDM]+ plik.txt
