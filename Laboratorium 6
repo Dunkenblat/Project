@@ -1,0 +1,11 @@
+## Laboratorium 6
+
+1. W pliku plik.txt znajdź wiersze zawierające co najmniej jeden znak. [x]
+
+grep ".*" plik.txt
+
+2. Znajdź w plikach pl* wiersze rozpoczynające się od cyfry.
+
+find -name 'pl*' | xargs grep -n ^[0-9] --color
+
+
