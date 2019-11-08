@@ -1,0 +1,40 @@
+Ćwiczenia
+
+1. Wyświetl na ekran 2 pierwsze wiersze pliku program.c. (head)
+
+head --lines 2 program.c
+head -n 2 program.c
+head -2 program.c
+
+2.Wyświetl na ekran 4 ostatnie wiersze pliku program.c.
+
+head -n 4 program.c
+
+3.W pliku program.c znajdź wszystkie wiersze z wystąpieniem słowa „main”.
+
+ grep 'main' program.c
+
+ 4. Plikowi program.c nadaj następujące uprawnienia: 
+ właściciel – czytanie, pisanie, grupa – czytanie, pozostali użytkownicy: brak uprawnień.
+ 
+ chmod 740 program.c
+ 
+ 5.Będąc w katalogu temp przenieś katalog wazne-sprawy do katalogu praca.
+ 
+ mv ~/Pulpit/temp/dom/wazne-sprawy ~/Pulpit/temp/praca
+ 
+ 6.Zarchiwizuj cały katalog temp.
+ 
+ zip -r temp.rar temp
+ 
+ 7. Usuń katalog temp.
+ 
+ rm -r temp
+ 
+ 8. Odtwórz z archiwum katalog temp.
+ 
+ unzip temp.rar
+ 
+ 
+ 
+ 
