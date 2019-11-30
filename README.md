@@ -9,12 +9,14 @@
 **Hello world** – program, którego jedynym celem jest wypisanie na standardowym wyjściu napisu "Hello World!" lub innego prostego komunikatu
 ```
 ```
-#inculde<stdio.h>
+#include <stdio.h>
 
-int main () {
+int main ()
+{
+  printf("hello world"); 
 
-printf("hello world"); 
-
+  return 0;
+}
 
 ---
 
