@@ -1,21 +1,25 @@
 ## Laboratorium 6
 
 1. W pliku plik.txt znajdź wiersze zawierające co najmniej jeden znak.
-
-grep . plik.txt
+    ```sh
+    grep . plik.txt
+    ```
 
 2. Znajdź w plikach pl* wiersze rozpoczynające się od cyfry.
-
- grep ^[0-9] pl*
+    ```sh
+    grep ^[0-9] pl*
+    ```
 
 3. Znajdź pliki, zawierające wiersz w którym na 9 pozycji występuje litera r.
-
-find | xargs grep -n -o '^........r' --color
-
+    ```sh
+    find | xargs grep -n -o '^........r' --color
+    ```
 4. Policz, ilu użytkowników systemu używa powłoki bash (zgodnie z zapisami w pliku /etc/passwd).
-
-grep -c bash /etc/passwd
-
+    ```sh
+    grep -c bash /etc/passwd
+    ```
 5. Znajdź wiersze zawierające liczby rzymskie w pliku plik.txt.
-
-grep -iw [IVXLCDM]+ plik.txt
+    ```sh
+    grep -iw [IVXLCDM]+ plik.txt
+    ```
+    
