@@ -17,7 +17,9 @@ int main() {
 }
 ```
 ## Collatz.c
+/*program powinien wskazać maksymalną liczbę, która pokaże się podczas wyliczania
 
+*/
 #include <stdio.h>
 
 int main()
