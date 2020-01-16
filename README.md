@@ -1,6 +1,6 @@
 ## Języki programowania - C
 
-* [x] Napisać program tzw. Hello world
+* [x] Napisać program tzw. Hello world(https://github.com/Dunkenblat/Project/blob/master/laboratorium2.md)
 * [ ] Przygotowac program do konwersji z F na C
 * [x] Katalog domowy użytkownika: pwd, ~. 
 * [x] Ścieżka, ścieżka względna, katalog bieżący, rodzicielski.
