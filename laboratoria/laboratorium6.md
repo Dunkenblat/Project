@@ -22,8 +22,4 @@
     ```sh
     grep -iw [IVXLCDM]+ plik.txt
     ```
-<<<<<<< HEAD:laboratorium6.md
-    
-=======
-    
->>>>>>> 965934b36cfc2ab5a32d207dbef50cdd9631d526:laboratorium6.md
+

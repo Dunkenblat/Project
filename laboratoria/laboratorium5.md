@@ -20,7 +20,4 @@ dziesięciu dni i wyświetl ich nazwy.
     ```sh
     find /etc -size +0k -name 'a*'
     ```
-<<<<<<< HEAD:laboratorium5.md
-=======
-    
->>>>>>> 965934b36cfc2ab5a32d207dbef50cdd9631d526:laboratorium5.md
+
