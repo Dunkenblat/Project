@@ -7,6 +7,7 @@
 
 int main() {
   printf("hello world");
+  return 0;
 }
 ```
 ## [Laboratoria](https://github.com/Dunkenblat/Project/tree/master/laboratoria)
