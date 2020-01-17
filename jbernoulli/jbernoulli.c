@@ -1,12 +1,28 @@
 #include <stdio.h>
+#include <math.h>
 
-int main()
+#include "jbernoulli.h"
+
+// TODO: x^y
+static long long int powerll(long long int x, long long int y)
 {
-int i, a = 1;
-long long int wynik;
-    for(i = 1; i <=10; i++){
-        a + i^2; 
-        printf("\n%lld\n", wynik);
-    }
-return 0;
+  return powl(x, y);
+}
+
+// exported
+
+long long int calculate_sum(int y, int upper_limit)
+{
+  long long int result = 0;
+
+  for (int i = 1; i <= upper_limit; i++)
+  {
+    result += powerll(i, y);
+  }
+  return result;
+}
+
+void print_results(int y, int s, int upper_limit)
+{
+  printf("1^%d + 2^%d + ... + %d^%d = %32d\n", y, y, upper_limit, y, s);
 }
