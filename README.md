@@ -1,4 +1,4 @@
-## Języki programowania - C
+# Języki programowania - C
 
 * [x] Napisać program tzw. Hello world
 * [x] Katalog domowy użytkownika: pwd, ~. 
@@ -17,12 +17,18 @@ int main() {
 ```
 # Laboratoria
 ## Pętle
-[Zadanie1](https://github.com/Dunkenblat/Project/blob/master/petle/1.c/)
+[Zadanie1](https://github.com/Dunkenblat/Project/blob/master/petle/1.c)
+
 [Zadanie2](https://github.com/Dunkenblat/Project/blob/master/petle/2.c)
+
 [Zadanie3](https://github.com/Dunkenblat/Project/blob/master/petle/3.c)
+
 [Zadanie4](https://github.com/Dunkenblat/Project/blob/master/petle/4.c)
+
 [Zadanie5](https://github.com/Dunkenblat/Project/blob/master/petle/5.c)
+
 [Zadanie6](https://github.com/Dunkenblat/Project/blob/master/petle/6.c)
+
 ## Elementarz_1
 ## Elementarz_2
 ## Jbernoulli
