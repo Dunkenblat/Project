@@ -168,4 +168,6 @@ int main() {
 ## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
 ## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
 
+* [x] [Napisz program nawiązujący do problemu Collatza.](https://github.com/Dunkenblat/Project/blob/master/collatz/collatz.c)
+
 
