@@ -39,6 +39,16 @@ int main() {
 
 * [x] [Zadanie 6 - Napisz program, który wczyta ze stdin 6 liczb rzeczywistych do tablicy, a następnie wyszuka i wypisze największą i najmniejszą liczbę umieszczoną w tej tablicy.](https://github.com/Dunkenblat/Project/blob/master/petle/6.c)
 
+* [ ] Zadanie 7 - Napisz program, który ze stdin wczyta 6 liczb rzeczywistych do tablicy, a następnie wypisze liczbę liczb dodatnich w niej zawartych.
+
+* [ ] Zadanie 8 - Napisz program rozmieszczający poniższe wzory oddzielnie jeden pod drugim. Użyj pętli for do generowania wzorów. Do wypisywania gwiazdek należy użyć instrukcji putchar('*') (powodującej wyświetlanie ich obok siebie). Uwaga: dwa ostatnie wzory wymagają, by każdy wiersz zaczynał się od odpowiedniej liczby spacji.
+``` 
+*       ****    ****       *
+**      ***      ***      **
+***     **        **     ***
+****    *          *    ****
+```
+
 ## [Elementarz_1](https://github.com/Dunkenblat/Project/tree/master/elementarz_1)
 * [x] [Zadanie 1 - Napisz program obliczający wartość każdego z poniższych wyrażeń:](https://github.com/Dunkenblat/Project/blob/master/elementarz_1/1.c)
 ```
