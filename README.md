@@ -15,7 +15,13 @@ int main() {
   printf("hello world");
 }
 ```
-# Laboratoria
+## [Laboratoria](https://github.com/Dunkenblat/Project/tree/master/laboratoria)
+* [x] [Laboratorium_2](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium2.md)
+
+* [x] [Laboratorium_5](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium2.md)
+
+* [x] [Laboratorium_6](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium2.md)
+
 ## [Pętle](https://github.com/Dunkenblat/Project/tree/master/petle)
 * [x] [Zadanie 1 - Napisz program, który wypisuje kolejne potęgi liczby 2 nie przekraczające 2010.](https://github.com/Dunkenblat/Project/blob/master/petle/1.c)
 
