@@ -1,8 +1,3 @@
-/*
-3. Napisać program, który robi to co poprzedni program,
-ale tym razem zamiast pętli „for” należy użyć pętli „while”.
-*/
-
 #include <stdio.h>
 #define size 5
 
