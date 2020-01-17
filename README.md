@@ -134,7 +134,7 @@ int main() {
 }
 ```
 
-* [x] [Zadanie4 - Zamiast komentarza /** ... */ i kropek ... poniżej wpisz kod, tak aby powstał program zliczający znaki odstępu, tabulacji i nowego wiersza tekstu wczytanego z stdin.]((https://github.com/Dunkenblat/Project/blob/master/elementarz_2/4.c)
+* [x] [Zadanie4 - Zamiast komentarza /** ... */ i kropek ... poniżej wpisz kod, tak aby powstał program zliczający znaki odstępu, tabulacji i nowego wiersza tekstu wczytanego z stdin.](https://github.com/Dunkenblat/Project/blob/master/elementarz_2/4.c)
 ```c
 #include <stdio.h>
 int main() {
