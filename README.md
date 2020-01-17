@@ -16,7 +16,7 @@ int main() {
 }
 ```
 # Laboratoria
-## Pętle
+## [Pętle](https://github.com/Dunkenblat/Project/tree/master/petle)
 * [x] [Zadanie 1 - Napisz program, który wypisuje kolejne potęgi liczby 2 nie przekraczające 2010.](https://github.com/Dunkenblat/Project/blob/master/petle/1.c)
 
 * [x] [Zadanie 2 -  Napisz program wyświetlający poniższą szachownicę:](https://github.com/Dunkenblat/Project/blob/master/petle/2.c)
@@ -39,7 +39,7 @@ int main() {
 
 * [x] [Zadanie 6 - Napisz program, który wczyta ze stdin 6 liczb rzeczywistych do tablicy, a następnie wyszuka i wypisze największą i najmniejszą liczbę umieszczoną w tej tablicy.](https://github.com/Dunkenblat/Project/blob/master/petle/6.c)
 
-## Elementarz_1
+## [Elementarz_1](https://github.com/Dunkenblat/Project/tree/master/elementarz_1)
 * [x] [Zadanie1 - Napisz program obliczający wartość każdego z poniższych wyrażeń:](https://github.com/Dunkenblat/Project/blob/master/elementarz_1/1.c)
 ```
 n1=5+3*8/2-3
@@ -89,7 +89,7 @@ printf("%d %d %d\n", nb, nt, nl);
 else if (c == '\n')
 ```
 
-## Elementarz_2
+## [Elementarz_2](https://github.com/Dunkenblat/Project/tree/master/elementarz_2)
 * [x] [Zadanie1 - Poniższy – zawierający wiele błędów – program dla podanej z klawiatury liczby M ma obliczyć najmniejszą liczbę n, taką że 1 + 2 + 3 +...+ n >= M. Popraw wszystkie błędy w tym programie tak, aby poprawiony program prawidłowo obliczał liczbę n.](https://github.com/Dunkenblat/Project/blob/master/elementarz_2/1.c)
 ```c
 #include <stdio.h>
@@ -151,7 +151,7 @@ int main() {
 }
 ```
 
-## Jbernoulli
-## Collatz
+## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
+## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
 
 
