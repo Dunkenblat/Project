@@ -8,5 +8,5 @@ int main() {
     i--;
     printf ("Element numer %d przyjmuje wartość %d\n", i, tab[i]);
   }
-  return 0;d
+  return 0;
 }
