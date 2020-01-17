@@ -11,6 +11,8 @@ int main() {
 }
 ```
 ## [Laboratoria](https://github.com/Dunkenblat/Project/tree/master/laboratoria)
+* [x] [Laboratorium_1](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium1.md)
+
 * [x] [Laboratorium_2](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium2.md)
 
 * [x] [Laboratorium_5](https://github.com/Dunkenblat/Project/blob/master/laboratoria/laboratorium2.md)
