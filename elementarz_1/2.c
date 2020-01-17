@@ -1,8 +1,3 @@
-//2. W miejsce kropek „...” wpisz kod, tak aby powstały działające programy.
-
-/* Program ten wypisuje liczby z tablicy tabela[]
-   w odwrotnej kolejności: 12, 6, 4, 2, 1 */
-
 #include <stdio.h>
 #define size 5
 
