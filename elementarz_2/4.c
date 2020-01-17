@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main () {
-
   int c, nb=0, nt=0, nl=0;
   while ((c=getchar()) != EOF) {
     if (c == ' ') {

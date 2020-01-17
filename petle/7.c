@@ -3,8 +3,7 @@
 
 int main() {
   float tablica[size];
-  printf("Podaj 6 elementow tablicy!\n");
-
+  printf("Podaj 6 elementow tablicy:\n");
   for(int i = 0; i < size; i++){
     scanf("%f", &tablica[i]);
   }
@@ -20,7 +19,6 @@ int main() {
     }
   }
   printf("Liczba liczb dodatnich tablicy wynosi: %0.f\n", dodatnie);
-  printf("Liczba liczb niedodatnich tablicy wynosi: %0.f\n", niedodatnie);
-  
+  printf("Liczba liczb ujemnych tablicy wynosi: %0.f\n", niedodatnie);
   return 0;
 }

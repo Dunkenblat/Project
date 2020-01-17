@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main() 
-{
+int main() {
   int liczba = 0;
   int suma = 0;
   printf("%s", "Podaj liczbę: ");

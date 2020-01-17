@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
   int n, i;
   printf("Podaj liczbę całkowitą, by sprawdzić, czy jest liczbą pierwszą: ");
   scanf("%d", &n);
