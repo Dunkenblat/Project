@@ -17,6 +17,7 @@ int main() {
 ```
 # Laboratoria
 ## Pętle
+[Zadanie1](https://github.com/Dunkenblat/Project/blob/master/petle/1.c)
 ## Elementarz_1
 ## Elementarz_2
 ## Jbernoulli
