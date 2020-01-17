@@ -1,10 +1,3 @@
-/*5. Student G. Apa dostał od kolegi na kartce kod programu zliczającego znaki odstępu, tabulacji i nowego wiersza. 
-Niestety jego młodszy brat pociął kartkę na kawałki zawierające po jednym wierszu kodu, a następnie kawałki te wymieszał. 
-Uporządkuj te kawałki, tak aby powstał działający program.*/
-
-/* zlicz znaki odstępu, tabulacji
-i nowego wiersza */
-
 #include <stdio.h>
 
 int main ()
