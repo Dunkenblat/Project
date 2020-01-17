@@ -48,7 +48,7 @@ n3=2*4*(5+9/2)
 ```
 
 * [x] [Zadanie2 - W miejsce kropek „...” wpisz kod, tak aby powstały działające programy.](https://github.com/Dunkenblat/Project/blob/master/elementarz_1/2.c)
-```
+```c
 /* Program ten wypisuje liczby z tablicy tabela[]
    w odwrotnej kolejności: 12, 6, 4, 2, 1 */
    
@@ -66,7 +66,7 @@ int main() {
 * [x] [Zadanie4 - Napisać program obliczający silnię z podanej, niezbyt dużej, liczby naturalnej.](https://github.com/Dunkenblat/Project/blob/master/elementarz_1/4.c)
 
 * [x] [Zadanie5 - Student G. Apa dostał od kolegi na kartce kod programu zliczającego znaki odstępu, tabulacji i nowego wiersza. Niestety jego młodszy brat pociął kartkę na kawałki zawierające po jednym wierszu kodu, a następnie kawałki te wymieszał. Uporządkuj te kawałki, tak aby powstał działający program.](https://github.com/Dunkenblat/Project/blob/master/elementarz_1/5.c)
-```
+```c
 /* zlicz znaki odstępu, tabulacji
 {
 }
