@@ -1,11 +1,5 @@
 # Języki programowania - C
 
-* [x] Napisać program tzw. Hello world
-* [x] Katalog domowy użytkownika: pwd, ~. 
-* [x] Ścieżka, ścieżka względna, katalog bieżący, rodzicielski.
-* [x] Pliki: tworzenie, usuwanie, przenoszenie, zmiana nazwy. 
-* [x] Polecenia: `ls`, `tree`, `cp`, `mv`, `cd`, `rm`, `rmdir`. Wykonać `man` polecenie. 
-
 **Hello world** – program, którego jedynym celem jest wypisanie na standardowym wyjściu napisu "Hello World!" lub innego prostego komunikatu.
 
 ```c
@@ -13,6 +7,7 @@
 
 int main() {
   printf("hello world");
+  return 0;
 }
 ```
 ## [Laboratoria](https://github.com/Dunkenblat/Project/tree/master/laboratoria)
