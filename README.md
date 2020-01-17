@@ -31,6 +31,8 @@ int main() {
  * * * * * * * *
  ```
 
+* [x] [Zadanie 2a -  Napisz program wyświetlający powyższą szachownicę. O szerokości i wysokości decyduje użytkownik.](https://github.com/Dunkenblat/Project/blob/master/petle/2a.c)
+
 * [x] [Zadanie 3 - Napisz program, który wczyta dwie liczby całkowite a i b (a<b) a następnie wypisze wszystkie liczby całkowite pomiędzy a i b.](https://github.com/Dunkenblat/Project/blob/master/petle/3.c)
 
 * [x] [Zadanie 4 - Napisz program, który wyliczy sumę liczb naturalnych od 1 do liczby n podanej przez użytkownika. Kiedy użytkownik poda liczbę mniejszą niż 1, to program powinien wypisać stosowny komunikat o błędzie.](https://github.com/Dunkenblat/Project/blob/master/petle/4.c)
@@ -39,7 +41,7 @@ int main() {
 
 * [x] [Zadanie 6 - Napisz program, który wczyta ze stdin 6 liczb rzeczywistych do tablicy, a następnie wyszuka i wypisze największą i najmniejszą liczbę umieszczoną w tej tablicy.](https://github.com/Dunkenblat/Project/blob/master/petle/6.c)
 
-* [ ] Zadanie 7 - Napisz program, który ze stdin wczyta 6 liczb rzeczywistych do tablicy, a następnie wypisze liczbę liczb dodatnich w niej zawartych.
+* [x] [Zadanie 7 - Napisz program, który ze stdin wczyta 6 liczb rzeczywistych do tablicy, a następnie wypisze liczbę liczb dodatnich w niej zawartych.](https://github.com/Dunkenblat/Project/blob/master/petle/7.c)
 
 * [ ] Zadanie 8 - Napisz program rozmieszczający poniższe wzory oddzielnie jeden pod drugim. Użyj pętli for do generowania wzorów. Do wypisywania gwiazdek należy użyć instrukcji putchar('*') (powodującej wyświetlanie ich obok siebie). Uwaga: dwa ostatnie wzory wymagają, by każdy wiersz zaczynał się od odpowiedniej liczby spacji.
 ``` 
