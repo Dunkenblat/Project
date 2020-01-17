@@ -17,7 +17,7 @@ int main() {
 ```
 # Laboratoria
 ## Pętle
-[Zadanie1](https://github.com/Dunkenblat/Project/blob/master/petle/1.c)
+[Zadanie1](https://github.com/Dunkenblat/Project/blob/master/petle/1.c/)
 [Zadanie2](https://github.com/Dunkenblat/Project/blob/master/petle/2.c)
 [Zadanie3](https://github.com/Dunkenblat/Project/blob/master/petle/3.c)
 [Zadanie4](https://github.com/Dunkenblat/Project/blob/master/petle/4.c)
