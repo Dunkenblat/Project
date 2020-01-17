@@ -47,4 +47,8 @@ właściciel – czytanie, pisanie, grupa – czytanie, pozostali użytkownicy: 
     ```
     cd ~/tmp
     ```
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 965934b36cfc2ab5a32d207dbef50cdd9631d526
