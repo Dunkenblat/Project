@@ -1,5 +1,3 @@
-//4. Napisać program obliczający silnię z podanej, niezbyt dużej, liczby naturalnej.
-
 #include <stdio.h>
 
 int main()
