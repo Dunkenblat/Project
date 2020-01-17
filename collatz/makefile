@@ -1,5 +1,5 @@
-CFLAGS = -Wall -std=c11
-CLIBS = -lm
+CFLAGS=-g -Wall -std=c11
+LDLIBS=-lm
 
 all: collatz
 

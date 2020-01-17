@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { 
+int main() {
   int n,f,steps=0;
   printf("Podaj liczbę: ");
   scanf("%d",&n);
