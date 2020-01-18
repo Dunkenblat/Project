@@ -34,7 +34,7 @@ int main() {
  * * * * * * * *
  ```
 
-* [x] [Zadanie 2a -  Napisz program wyświetlający powyższą szachownicę. O szerokości i wysokości decyduje użytkownik.](https://github.com/Dunkenblat/Project/blob/master/petle/2a.c)
+* [ ] Zadanie 2a -  Napisz program wyświetlający powyższą szachownicę. O szerokości i wysokości decyduje użytkownik.
 
 * [x] [Zadanie 3 - Napisz program, który wczyta dwie liczby całkowite a i b (a<b) a następnie wypisze wszystkie liczby całkowite pomiędzy a i b.](https://github.com/Dunkenblat/Project/blob/master/petle/3.c)
 
@@ -170,9 +170,9 @@ int main() {
 ## Rekurencja
 * [x] [zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).](https://github.com/Dunkenblat/Project/blob/master/rekurencja1.c)
 
-* [ ] [zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.]
+* [ ] zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.
 
-* [ ] [zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.]
+* [ ] zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.
 
 ## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
 ## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
