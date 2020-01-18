@@ -1,7 +1,3 @@
-/*2. Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, 
-czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
