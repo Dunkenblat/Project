@@ -1,5 +1,3 @@
-//1. Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).
-
 #include <stdio.h>
 
 long pow_rekurencja(long n, int k) {
