@@ -5,8 +5,7 @@ czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.
 #include <stdio.h>
 #include <stdlib.h>
 
-int newton(int n, int k)
-{
+int newton(int n, int k) {
     if ((k==0) || (n==k)) return 1;
     else return newton(n-1, k-1)+ newton(n-1, k);
 }
