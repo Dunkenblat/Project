@@ -170,9 +170,9 @@ int main() {
 ## Rekurencja
 * [x] [zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).](https://github.com/Dunkenblat/Project/blob/master/rekurencja1.c)
 
-* [x] [zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.](https://github.com/Dunkenblat/Project/blob/master/rekurencja2.c)
+* [ ] [zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.]
 
-* [x] [zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.](https://github.com/Dunkenblat/Project/blob/master/rekurencja3.c)
+* [ ] [zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.]
 
 ## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
 ## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
