@@ -1,22 +1,16 @@
-//3. Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.
-
 #include <stdio.h>
-#include <string.h>
+#include <stdlib.h>
 
-void swap (char* a, char* b) {
-  char c; c=*a; *a=*b; *b=c;
+int newton(int n, int k) {
+    if ((k==0) || (n==k)) return 1;
+    else return newton(n-1, k-1)+ newton(n-1, k);
 }
-void rewers(char* str, int l, int r) {
-	if (r <= l) return;
-	swap(str+l, str+r);
-	rewers(str, l+1, r-1);
-}
-int main(void) {
-	char buf[50];
-
-	printf("podaj łańcuch: ");
-	scanf("%s", buf);
-	rewers(buf, 0, strlen(buf)-1);
-	printf("Łańcuch odwrócony: \"%s\"\n", buf);
-	return 0;
+int main() {
+    int n,k;
+    printf("Podaj n: ");
+    scanf("%i",&n);
+    printf("Podaj k: ");
+    scanf("%i",&k);
+    printf("Wspołczynnik Newtonowski %i po %i wynosi: %i\n",n,k,newton(n, k));
+    return 0;
 }
