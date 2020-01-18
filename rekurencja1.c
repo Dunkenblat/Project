@@ -4,9 +4,7 @@
 
 long pow_rekurencja(long n, int k)
 {
-	// warunek potegowania
 	if (k < 1) return 0;
-	// warunek stopu
 	if (k == 1) return n;
 	return n*pow_rekurencja(n,k-1);
 }
