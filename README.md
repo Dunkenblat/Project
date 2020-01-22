@@ -34,7 +34,7 @@ int main() {
  * * * * * * * *
  ```
 
-* [ ] Zadanie 2a -  Napisz program wyświetlający powyższą szachownicę. O szerokości i wysokości decyduje użytkownik.
+* [x] [Zadanie 2a -  Napisz program wyświetlający powyższą szachownicę. O szerokości i wysokości decyduje użytkownik.](https://github.com/Dunkenblat/Project/blob/master/petle/2a.c)
 
 * [x] [Zadanie 3 - Napisz program, który wczyta dwie liczby całkowite a i b (a<b) a następnie wypisze wszystkie liczby całkowite pomiędzy a i b.](https://github.com/Dunkenblat/Project/blob/master/petle/3.c)
 
