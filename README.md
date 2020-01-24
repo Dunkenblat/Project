@@ -176,9 +176,10 @@ int main() {
 
 * [x] [zadanie 4 - Korzystając z twierdzenia Euklidesa, napisać program obliczający rekurencyjnie największy wspólny dzielnik z liczb podanych na wejściu.](https://github.com/Dunkenblat/Project/blob/master/rekurencja/4.c)
 
-## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
 ## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
 
-* [x] [Napisz program nawiązujący do problemu Collatza.](https://github.com/Dunkenblat/Project/blob/master/collatz/collatz.c)
+* [x] [Napisz program , który po podaniu liczby przez użytkownika, poda ją analizie dotyczącej problemu Collatza.](https://github.com/Dunkenblat/Project/blob/master/collatz/collatz.c)
 
 
+
+## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
