@@ -168,11 +168,13 @@ int main() {
 }
 ```
 ## Rekurencja
-* [x] [zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).](https://github.com/Dunkenblat/Project/blob/master/rekurencja1.c)
+* [ ] zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).
 
 * [ ] zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.
 
-* [ ] zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.
+* [x] [zadanie 3 - Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.](https://github.com/Dunkenblat/Project/blob/master/rekurencja/3.c)
+
+* [x] [zadanie 4 - Korzystając z twierdzenia Euklidesa, napisać program obliczający rekurencyjnie największy wspólny dzielnik z liczb podanych na wejściu.](https://github.com/Dunkenblat/Project/blob/master/rekurencja/4.c)
 
 ## [Jbernoulli](https://github.com/Dunkenblat/Project/tree/master/jbernoulli)
 ## [Collatz](https://github.com/Dunkenblat/Project/tree/master/collatz)
