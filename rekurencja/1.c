@@ -1,22 +1,22 @@
 #include <stdio.h>
 
-long pow_rekurencja(long n, int k) {
-	if (k < 1) return 0;
-	if (k == 1) return n;
-	return n*pow_rekurencja(n,k-1);
+int power(int n, int k){
+  if (k == 0) {
+    return 1;
+  } 
+  else {
+    return n * power(n, k - 1);
+  }
 }
+
+
 int main(void) {
-	char buf[50];
-	int n, k;
-	long wynik;
+  int n, k;
+  printf("podaj podstawę n:");
+  scanf("%d", &n);
+  printf("podaj wykładnik k:");
+  scanf("%d", &k);
+  printf("%d^%d = %d\n", n, k, power(n, k));
 
-	printf("podaj n: ");
-	scanf("%d", &n);
-
-	printf("podaj k: ");
-	scanf("%d", &k);
-
-	wynik = pow_rekurencja(n,k);
-	printf("wynik to: %ld\n", wynik);
-	return 0;
+  return 0; 
 }
