@@ -168,7 +168,7 @@ int main() {
 }
 ```
 ## Rekurencja
-* [ ] zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).
+* [x] [zadanie 1 - Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).](https://github.com/Dunkenblat/Project/blob/master/rekurencja/1.c)
 
 * [ ] zadanie 2 - Napisać funkcję rekurencyjną C(n,k) obliczającą współczynnik Newtona n po k, czyli liczbę podzbiorów k-elementowych zbioru n-elementowego.
 
